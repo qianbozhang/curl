@@ -4,6 +4,7 @@
 export ENV_DIR=$PWD
 export ROOT=$ENV_DIR;
 export BASE_DIR=$ROOT/base;
+export PROJECT_DIR=$ROOT/project;
 export INSTALL_DIR=$ROOT/vender/usr/local;
 
 echo "env dir = $ENV_DIR";
